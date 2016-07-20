@@ -1,0 +1,12 @@
+hash: 9286ff3bd84a21fc8a4f6e448a2342f1f104c004942948224f2215e77cafd31d
+updated: 2016-07-20T08:20:05.3946204-05:00
+imports:
+- name: github.com/influxdata/influxdb
+  version: 16f5ff3c03d022aaac76f5dc32f7905e33ef5538
+  subpackages:
+  - client/v2
+  - models
+  - pkg/escape
+- name: github.com/tarm/serial
+  version: 37be519d49878d0098e34fb614136b81e6c87861
+testImports: []
